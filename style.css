@@ -1,0 +1,57 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: black;
+}
+
+
+h1 {
+    color: gold;
+    background-color: rgb(30, 10, 141);
+    font-size: 45px;
+    text-align: center;
+}
+
+/* how to center an image  */
+/* https: //www.w3schools.com/howto/howto_css_image_center.asp  */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 3o0px;
+  height: auto;
+}
+
+
+h3 {
+    color: whitesmoke;
+    background-color: rgb(61, 2, 35);
+    text-align: center;
+    font-size: 34px;
+    font-weight: 400;
+}
+
+
+p {
+    text-align: center;
+    color: antiquewhite;
+    
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    color: rgb(172, 182, 204);
+}
+
+
+a {
+    color: rgb(212, 212, 216);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+a:hover {
+    background-color: rgb(46, 13, 83);
+}
